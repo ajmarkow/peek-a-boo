@@ -1,19 +1,11 @@
-.initially-showing {
-  display: none;
+.green-background {
+  background-color: green;
 }
 
-#also-hidden {
-  display: none;
+.yellow-background {
+  background-color: yellow;
 }
 
-.also-showing {
-  display:none
-}
-.clickable {
-  cursor: pointer;
-  color: #0088cc;
-}
-
-.clickable:hover {
-  text-decoration: underline;
+.red-background {
+  background-color: red;
 }
