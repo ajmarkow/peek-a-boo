@@ -1,7 +1,14 @@
-#walrus-showing {
+.initially-showing {
   display: none;
 }
 
+#also-hidden {
+  display: none;
+}
+
+.also-showing {
+  display:none
+}
 .clickable {
   cursor: pointer;
   color: #0088cc;
